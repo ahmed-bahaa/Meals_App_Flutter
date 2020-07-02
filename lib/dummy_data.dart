@@ -7,32 +7,52 @@ var DYMMY = [
   Category(
     id: 'c1',
     title: 'Italian',
-    color: Colors.pink,
+    color: Colors.purple,
   ),
   Category(
     id: 'c2',
-    title: 'Egyptian',
+    title: 'Quick & Easy',
     color: Colors.red,
   ),
   Category(
     id: 'c3',
-    title: 'Frensh',
-    color: Colors.cyan,
+    title: 'Hamburgers',
+    color: Colors.orange,
   ),
   Category(
     id: 'c4',
-    title: 'Chinease',
-    color: Colors.yellow,
+    title: 'German',
+    color: Colors.amber,
   ),
   Category(
     id: 'c5',
-    title: 'Easy & Quick',
-    color: Colors.green,
+    title: 'Light & Lovely',
+    color: Colors.blue,
   ),
   Category(
     id: 'c6',
-    title: 'Pizza',
-    color: Colors.lime,
+    title: 'Exotic',
+    color: Colors.green,
+  ),
+  Category(
+    id: 'c7',
+    title: 'Breakfast',
+    color: Colors.lightBlue,
+  ),
+  Category(
+    id: 'c8',
+    title: 'Asian',
+    color: Colors.lightGreen,
+  ),
+  Category(
+    id: 'c9',
+    title: 'French',
+    color: Colors.pink,
+  ),
+  Category(
+    id: 'c10',
+    title: 'Summer',
+    color: Colors.teal,
   ),
 ];
 
